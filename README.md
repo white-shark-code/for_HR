@@ -1,2 +1,1 @@
-# for_HR
-Repository, for HR professionals. This is where test tasks are stored.
+# Hello HR this place for yours test projects
