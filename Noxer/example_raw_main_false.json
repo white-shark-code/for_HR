@@ -1,0 +1,115 @@
+{
+  "products": [
+    {
+      "Created_At": "Fri, 09 May 2025 13:57:33 GMT",
+      "OnMain": false,
+      "Product_ID": 7,
+      "Product_Name": "Футболка мужская",
+      "Updated_At": null,
+      "categories": [
+        {
+          "Category_ID": 2,
+          "Category_Image": "https://static-sda.ru/brandbot/menu/card2.png",
+          "Category_Name": "Одежда",
+          "sort_order": null
+        }
+      ],
+      "colors": [],
+      "excluded": [
+        {
+          "color_id": null,
+          "id": 7371,
+          "parameter_id": 36,
+          "product_id": 7
+        }
+      ],
+      "extras": [],
+      "images": [
+        {
+          "Image_ID": 25,
+          "Image_URL": "https://static-sda.ru/brandbot/tovars/t1.jpg",
+          "MainImage": true,
+          "Product_ID": 7,
+          "position": "product",
+          "sort_order": 0,
+          "title": ""
+        }
+      ],
+      "importance_num": null,
+      "marks": [
+        {
+          "Mark_ID": 1,
+          "Mark_Name": "sale"
+        }
+      ],
+      "moysklad_connector_products_data": null,
+      "parameters": [
+        {
+          "Parameter_ID": 36,
+          "chosen": true,
+          "disabled": false,
+          "extra_field_color": null,
+          "extra_field_image": null,
+          "name": "Размер",
+          "old_price": 100,
+          "parameter_string": "XL",
+          "price": 900,
+          "sort_order": null
+        }
+      ],
+      "reviews": [],
+      "reviews_video": [],
+      "tags": null
+    },
+    {
+      "Created_At": "Fri, 09 May 2025 14:01:22 GMT",
+      "OnMain": false,
+      "Product_ID": 8,
+      "Product_Name": "Футболка оверсайз мужская",
+      "Updated_At": "Thu, 24 Jul 2025 13:39:29 GMT",
+      "categories": [
+        {
+          "Category_ID": 2,
+          "Category_Image": "https://static-sda.ru/brandbot/menu/card2.png",
+          "Category_Name": "Одежда",
+          "sort_order": null
+        }
+      ],
+      "colors": [],
+      "excluded": [],
+      "extras": [],
+      "images": [
+        {
+          "Image_ID": 26,
+          "Image_URL": "https://static-sda.ru/brandbot/tovars/t2.jpg",
+          "MainImage": true,
+          "Product_ID": 8,
+          "position": "product",
+          "sort_order": 0,
+          "title": ""
+        }
+      ],
+      "importance_num": null,
+      "marks": [],
+      "moysklad_connector_products_data": null,
+      "parameters": [
+        {
+          "Parameter_ID": 37,
+          "chosen": true,
+          "disabled": false,
+          "extra_field_color": null,
+          "extra_field_image": null,
+          "name": "Размер",
+          "old_price": 9999,
+          "parameter_string": "XXXL",
+          "price": 1100,
+          "sort_order": null
+        }
+      ],
+      "reviews": [],
+      "reviews_video": [],
+      "tags": null
+    }
+  ],
+  "status": "ok"
+}

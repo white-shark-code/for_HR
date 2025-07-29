@@ -1,0 +1,17 @@
+{# templates/base.html #}
+
+{% extends "base.html" %}
+{% block content %}
+    {% if products %}
+        {% for product in products %}
+            <ul>
+                {% for key, value in product.items() %}
+                    <li>{{key}} -> {{value}}</li>
+                {% endfor %}
+            </ul>
+        {% endfor %}
+        <br>
+    {% else %}
+        <p>Нет записей в БД</p>
+    {% endif %}
+{% endblock content %}

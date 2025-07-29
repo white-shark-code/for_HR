@@ -1,0 +1,1332 @@
+{
+  "categories": [
+    {
+      "Category_ID": 1,
+      "Category_Image": "https://static-sda.ru/brandbot/menu/card1.png",
+      "Category_Name": "Техника",
+      "sort_order": null
+    },
+    {
+      "Category_ID": 2,
+      "Category_Image": "https://static-sda.ru/brandbot/menu/card2.png",
+      "Category_Name": "Одежда",
+      "sort_order": null
+    },
+    {
+      "Category_ID": 3,
+      "Category_Image": "https://static-sda.ru/brandbot/menu/card3.png",
+      "Category_Name": "Кроссовки",
+      "sort_order": null
+    },
+    {
+      "Category_ID": 4,
+      "Category_Image": "https://static-sda.ru/brandbot/menu/card4.png",
+      "Category_Name": "Сладости",
+      "sort_order": null
+    },
+    {
+      "Category_ID": 5,
+      "Category_Image": "https://static-sda.ru/brandbot/menu/card5.png",
+      "Category_Name": "Наушники",
+      "sort_order": null
+    }
+  ],
+  "product_marks": [
+    {
+      "Mark_ID": 1,
+      "Mark_Name": "sale"
+    },
+    {
+      "Mark_ID": 2,
+      "Mark_Name": "new"
+    },
+    {
+      "Mark_ID": 3,
+      "Mark_Name": "hit"
+    },
+    {
+      "Mark_ID": 5,
+      "Mark_Name": "premium"
+    },
+    {
+      "Mark_ID": 6,
+      "Mark_Name": "hot"
+    }
+  ],
+  "products": [
+    {
+      "Created_At": "Thu, 30 Jan 2025 15:38:47 GMT",
+      "OnMain": true,
+      "Product_ID": 1,
+      "Product_Name": "НаушникиCOMMO One",
+      "Updated_At": "Thu, 08 May 2025 13:33:42 GMT",
+      "categories": [
+        {
+          "Category_ID": 1,
+          "Category_Image": "https://static-sda.ru/brandbot/menu/card1.png",
+          "Category_Name": "Техника",
+          "sort_order": null
+        }
+      ],
+      "colors": [
+        {
+          "Color_Code": "#808000",
+          "Color_ID": 8,
+          "Color_Name": "Оливковый",
+          "Color_image": null,
+          "Product_ID": 1,
+          "discount": null,
+          "json_data": null,
+          "sort_order": null
+        },
+        {
+          "Color_Code": "#F6B8B8",
+          "Color_ID": 9,
+          "Color_Name": "Пудровый",
+          "Color_image": null,
+          "Product_ID": 1,
+          "discount": null,
+          "json_data": null,
+          "sort_order": null
+        },
+        {
+          "Color_Code": "#000000",
+          "Color_ID": 6,
+          "Color_Name": "Чёрный",
+          "Color_image": null,
+          "Product_ID": 1,
+          "discount": null,
+          "json_data": null,
+          "sort_order": null
+        },
+        {
+          "Color_Code": "#FFFFFF",
+          "Color_ID": 7,
+          "Color_Name": "Белый",
+          "Color_image": null,
+          "Product_ID": 1,
+          "discount": null,
+          "json_data": null,
+          "sort_order": null
+        }
+      ],
+      "excluded": [],
+      "extras": [
+        {
+          "Characteristics": "Здесь будет находиться описание вашего товара такого размера, какого захотите",
+          "Delivery": "",
+          "Kit": "Здесь будут находиться характеристики вашего товара такого размера, какого захотите",
+          "Offer": "",
+          "Product_Extra_ID": 1,
+          "Product_ID": 1,
+          "ai_description": "Наушники COMMO One\r\nлучшие да брать)"
+        }
+      ],
+      "images": [
+        {
+          "Image_ID": 1,
+          "Image_URL": "https://static-sda.ru/brandbot/tovars/img1.jpg",
+          "MainImage": true,
+          "Product_ID": 1,
+          "position": null,
+          "sort_order": null,
+          "title": null
+        }
+      ],
+      "importance_num": null,
+      "marks": [
+        {
+          "Mark_ID": 5,
+          "Mark_Name": "premium"
+        },
+        {
+          "Mark_ID": 2,
+          "Mark_Name": "new"
+        }
+      ],
+      "moysklad_connector_products_data": null,
+      "parameters": [
+        {
+          "Parameter_ID": 21,
+          "chosen": true,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": null,
+          "name": "Шт",
+          "old_price": null,
+          "parameter_string": "1",
+          "price": 21,
+          "sort_order": null
+        }
+      ],
+      "reviews": [
+        {
+          "Photo_ID": 1,
+          "Photo_URL": "https://static-sda.ru/brandbot/rew.jpg",
+          "Product_ID": 1,
+          "sort_order": null
+        }
+      ],
+      "reviews_video": [
+        {
+          "Poster_URL": "https://static-sda.ru/luxpods_photo/watchs10.png",
+          "Product_ID": 1,
+          "Video_ID": 4,
+          "Video_URL": "https://static-sda.ru/luxpods_photo/video/watchs10.mov",
+          "sort_order": null
+        }
+      ],
+      "tags": [
+        "наушники",
+        "унисекс",
+        "белое",
+        "полноразмерные"
+      ]
+    },
+    {
+      "Created_At": "Thu, 30 Jan 2025 15:39:19 GMT",
+      "OnMain": true,
+      "Product_ID": 2,
+      "Product_Name": "Футболка оверсайз женская",
+      "Updated_At": "Thu, 08 May 2025 13:33:47 GMT",
+      "categories": [
+        {
+          "Category_ID": 2,
+          "Category_Image": "https://static-sda.ru/brandbot/menu/card2.png",
+          "Category_Name": "Одежда",
+          "sort_order": null
+        }
+      ],
+      "colors": [
+        {
+          "Color_Code": "#00FF00",
+          "Color_ID": 4,
+          "Color_Name": "Зелёный",
+          "Color_image": null,
+          "Product_ID": 2,
+          "discount": null,
+          "json_data": null,
+          "sort_order": null
+        },
+        {
+          "Color_Code": "#0000FF",
+          "Color_ID": 5,
+          "Color_Name": "Синий",
+          "Color_image": null,
+          "Product_ID": 2,
+          "discount": 10,
+          "json_data": null,
+          "sort_order": null
+        },
+        {
+          "Color_Code": "#FF0000",
+          "Color_ID": 3,
+          "Color_Name": "Красный",
+          "Color_image": null,
+          "Product_ID": 2,
+          "discount": null,
+          "json_data": null,
+          "sort_order": null
+        }
+      ],
+      "excluded": [],
+      "extras": [
+        {
+          "Characteristics": "Здесь будет находиться описание вашего товара такого размера, какого захотите",
+          "Delivery": "",
+          "Kit": "Здесь будет находиться характеристика вашего товара такого размера, какого захотите",
+          "Offer": "",
+          "Product_Extra_ID": 2,
+          "Product_ID": 2,
+          "ai_description": "Фтболка унисекс"
+        }
+      ],
+      "images": [
+        {
+          "Image_ID": 23,
+          "Image_URL": "https://static-sda.ru/brandbot/tovars/img2.jpg",
+          "MainImage": false,
+          "Product_ID": 2,
+          "position": null,
+          "sort_order": null,
+          "title": null
+        },
+        {
+          "Image_ID": 2,
+          "Image_URL": "https://static-sda.ru/brandbot/tovars/img2.jpg",
+          "MainImage": true,
+          "Product_ID": 2,
+          "position": null,
+          "sort_order": null,
+          "title": null
+        }
+      ],
+      "importance_num": null,
+      "marks": [
+        {
+          "Mark_ID": 1,
+          "Mark_Name": "sale"
+        }
+      ],
+      "moysklad_connector_products_data": null,
+      "parameters": [
+        {
+          "Parameter_ID": 13,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": null,
+          "extra_field_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGK4II03o0n_rGupsYyIpVBJ9qqFrGdxw_Jg&s",
+          "name": "Размер одежды",
+          "old_price": 765,
+          "parameter_string": "M (46-48)",
+          "price": 3,
+          "sort_order": null
+        },
+        {
+          "Parameter_ID": 35,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": null,
+          "name": "Цвет",
+          "old_price": null,
+          "parameter_string": "Белый",
+          "price": 999,
+          "sort_order": null
+        },
+        {
+          "Parameter_ID": 34,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": null,
+          "name": "Цвет",
+          "old_price": null,
+          "parameter_string": "Чёрный",
+          "price": 999,
+          "sort_order": null
+        },
+        {
+          "Parameter_ID": 15,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": null,
+          "extra_field_image": null,
+          "name": "Размер одежды",
+          "old_price": 2500,
+          "parameter_string": "XL (52-54)",
+          "price": 15,
+          "sort_order": null
+        },
+        {
+          "Parameter_ID": 16,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": null,
+          "extra_field_image": null,
+          "name": "Размер одежды",
+          "old_price": null,
+          "parameter_string": "XXL (56)",
+          "price": 16,
+          "sort_order": null
+        },
+        {
+          "Parameter_ID": 12,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": null,
+          "extra_field_image": "https://sublimagia.ru/image/cache/catalog/fut/5365-600x600.jpg",
+          "name": "Размер одежды",
+          "old_price": 100,
+          "parameter_string": "S (44)",
+          "price": 10,
+          "sort_order": null
+        },
+        {
+          "Parameter_ID": 11,
+          "chosen": true,
+          "disabled": false,
+          "extra_field_color": null,
+          "extra_field_image": "https://static-sda.ru/brandbot/tovars/img2.jpg",
+          "name": "Размер одежды",
+          "old_price": 999,
+          "parameter_string": "XS (40-42)",
+          "price": 2,
+          "sort_order": null
+        }
+      ],
+      "reviews": [
+        {
+          "Photo_ID": 2,
+          "Photo_URL": "https://static-sda.ru/brandbot/rew.jpg",
+          "Product_ID": 2,
+          "sort_order": null
+        }
+      ],
+      "reviews_video": [
+        {
+          "Poster_URL": "https://static-sda.ru/luxpods_photo/watchs10.png",
+          "Product_ID": 2,
+          "Video_ID": 1,
+          "Video_URL": "https://static-sda.ru/luxpods_photo/video/watchs10.mov",
+          "sort_order": null
+        }
+      ],
+      "tags": [
+        "oversize",
+        "женская одежда"
+      ]
+    },
+    {
+      "Created_At": "Thu, 30 Jan 2025 15:39:51 GMT",
+      "OnMain": true,
+      "Product_ID": 3,
+      "Product_Name": "Кроссовки NIKE Gamma Force",
+      "Updated_At": "Fri, 25 Jul 2025 12:39:29 GMT",
+      "categories": [
+        {
+          "Category_ID": 3,
+          "Category_Image": "https://static-sda.ru/brandbot/menu/card3.png",
+          "Category_Name": "Кроссовки",
+          "sort_order": null
+        }
+      ],
+      "colors": [
+        {
+          "Color_Code": "#FFFFFF",
+          "Color_ID": 10,
+          "Color_Name": "White",
+          "Color_image": "https://www.football-mania.ru/f/product/dx9176_107_1.jpg",
+          "Product_ID": 3,
+          "discount": 0,
+          "json_data": null,
+          "sort_order": null
+        }
+      ],
+      "excluded": [],
+      "extras": [
+        {
+          "Characteristics": "Здесь будет находиться описание вашего товара такого размера, какого захотите",
+          "Delivery": "",
+          "Kit": "Здесь будет находиться характеристика вашего товара такого размера, какого захотите",
+          "Offer": "",
+          "Product_Extra_ID": 3,
+          "Product_ID": 3,
+          "ai_description": "Кроссы реплика ого\n"
+        }
+      ],
+      "images": [
+        {
+          "Image_ID": 28,
+          "Image_URL": "https://www.football-mania.ru/f/product/dx9176_107_8.jpg",
+          "MainImage": true,
+          "Product_ID": 3,
+          "position": "product",
+          "sort_order": 2,
+          "title": "2я картинка"
+        },
+        {
+          "Image_ID": 3,
+          "Image_URL": "https://www.football-mania.ru/f/product/dx9176_107_3.jpg",
+          "MainImage": false,
+          "Product_ID": 3,
+          "position": "parameters",
+          "sort_order": 0,
+          "title": "Подошва"
+        },
+        {
+          "Image_ID": 5,
+          "Image_URL": "https://static-sda.ru/brandbot/tovars/img5.jpg",
+          "MainImage": false,
+          "Product_ID": 3,
+          "position": "product",
+          "sort_order": 1,
+          "title": ""
+        }
+      ],
+      "importance_num": [
+        {
+          "id": 3,
+          "importance": 1,
+          "product_id": 3
+        }
+      ],
+      "marks": [
+        {
+          "Mark_ID": 2,
+          "Mark_Name": "new"
+        }
+      ],
+      "moysklad_connector_products_data": null,
+      "parameters": [
+        {
+          "Parameter_ID": 3,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": null,
+          "extra_field_image": "https://www.football-mania.ru/f/product/dx9176_107_7.jpg",
+          "name": "Размер обуви",
+          "old_price": null,
+          "parameter_string": "37",
+          "price": 6,
+          "sort_order": null
+        },
+        {
+          "Parameter_ID": 4,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": null,
+          "extra_field_image": "https://www.football-mania.ru/f/product/dx9176_107_7.jpg",
+          "name": "Размер обуви",
+          "old_price": null,
+          "parameter_string": "38",
+          "price": 7,
+          "sort_order": null
+        },
+        {
+          "Parameter_ID": 5,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": null,
+          "extra_field_image": null,
+          "name": "Размер обуви",
+          "old_price": null,
+          "parameter_string": "39",
+          "price": 8,
+          "sort_order": null
+        },
+        {
+          "Parameter_ID": 6,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": null,
+          "extra_field_image": null,
+          "name": "Размер обуви",
+          "old_price": null,
+          "parameter_string": "40",
+          "price": 9,
+          "sort_order": null
+        },
+        {
+          "Parameter_ID": 7,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": null,
+          "extra_field_image": null,
+          "name": "Размер обуви",
+          "old_price": null,
+          "parameter_string": "41",
+          "price": 10,
+          "sort_order": null
+        },
+        {
+          "Parameter_ID": 8,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": null,
+          "extra_field_image": null,
+          "name": "Размер обуви",
+          "old_price": null,
+          "parameter_string": "42",
+          "price": 11,
+          "sort_order": null
+        },
+        {
+          "Parameter_ID": 9,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": null,
+          "extra_field_image": null,
+          "name": "Размер обуви",
+          "old_price": null,
+          "parameter_string": "43",
+          "price": 12,
+          "sort_order": null
+        },
+        {
+          "Parameter_ID": 10,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": null,
+          "extra_field_image": null,
+          "name": "Размер обуви",
+          "old_price": null,
+          "parameter_string": "44",
+          "price": 13,
+          "sort_order": null
+        },
+        {
+          "Parameter_ID": 1,
+          "chosen": true,
+          "disabled": false,
+          "extra_field_color": null,
+          "extra_field_image": "https://www.football-mania.ru/f/product/dx9176_107_5.jpg",
+          "name": "Размер обуви",
+          "old_price": null,
+          "parameter_string": "35",
+          "price": 4,
+          "sort_order": null
+        },
+        {
+          "Parameter_ID": 2,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": null,
+          "extra_field_image": "https://www.football-mania.ru/f/product/dx9176_107_5.jpg",
+          "name": "Размер обуви",
+          "old_price": null,
+          "parameter_string": "36",
+          "price": 5,
+          "sort_order": null
+        }
+      ],
+      "reviews": [
+        {
+          "Photo_ID": 3,
+          "Photo_URL": "https://static-sda.ru/brandbot/rew.jpg",
+          "Product_ID": 3,
+          "sort_order": null
+        }
+      ],
+      "reviews_video": [
+        {
+          "Poster_URL": "https://static-sda.ru/luxpods_photo/watchs10.png",
+          "Product_ID": 3,
+          "Video_ID": 2,
+          "Video_URL": "https://static-sda.ru/luxpods_photo/video/watchs10.mov",
+          "sort_order": null
+        },
+        {
+          "Poster_URL": "https://static-sda.ru/luxpods_photo/watchs10.png",
+          "Product_ID": 3,
+          "Video_ID": 10,
+          "Video_URL": "https://static-sda.ru/luxpods_photo/video/watchs10.mov",
+          "sort_order": null
+        }
+      ],
+      "tags": null
+    },
+    {
+      "Created_At": "Thu, 30 Jan 2025 15:40:12 GMT",
+      "OnMain": true,
+      "Product_ID": 4,
+      "Product_Name": "Пишмание 250 грТурция",
+      "Updated_At": "Thu, 08 May 2025 13:33:55 GMT",
+      "categories": [
+        {
+          "Category_ID": 4,
+          "Category_Image": "https://static-sda.ru/brandbot/menu/card4.png",
+          "Category_Name": "Сладости",
+          "sort_order": null
+        }
+      ],
+      "colors": [
+        {
+          "Color_Code": "#FFFFFF",
+          "Color_ID": 1,
+          "Color_Name": "White",
+          "Color_image": "https://cdn1.ozone.ru/s3/multimedia-0/6368311140.jpg",
+          "Product_ID": 4,
+          "discount": 10,
+          "json_data": null,
+          "sort_order": null
+        },
+        {
+          "Color_Code": "#000000",
+          "Color_ID": 2,
+          "Color_Name": "Black",
+          "Color_image": "https://cs1.livemaster.ru/storage/ea/10/060dbf6ea967134dcdcf837e7bxl--kosmetika-ruchnoj-raboty-suvenir-ruchnaya-rabota-zefirka-v-sho.jpg",
+          "Product_ID": 4,
+          "discount": 50,
+          "json_data": null,
+          "sort_order": null
+        }
+      ],
+      "excluded": [
+        {
+          "color_id": 2,
+          "id": 2,
+          "parameter_id": 19,
+          "product_id": 4
+        }
+      ],
+      "extras": [
+        {
+          "Characteristics": "Здесь будет находиться описание вашего товара такого размера, какого захотите",
+          "Delivery": "",
+          "Kit": "Здесь будет находиться характеристика вашего товара такого размера, какого захотите",
+          "Offer": "",
+          "Product_Extra_ID": 4,
+          "Product_ID": 4,
+          "ai_description": null
+        }
+      ],
+      "images": [
+        {
+          "Image_ID": 10,
+          "Image_URL": "https://avatars.mds.yandex.net/get-mpic/5226473/img_id4959333646706083173.jpeg/orig",
+          "MainImage": true,
+          "Product_ID": 4,
+          "position": null,
+          "sort_order": null,
+          "title": null
+        },
+        {
+          "Image_ID": 4,
+          "Image_URL": "https://static-sda.ru/brandbot/tovars/img4.jpg",
+          "MainImage": true,
+          "Product_ID": 4,
+          "position": null,
+          "sort_order": null,
+          "title": null
+        }
+      ],
+      "importance_num": [
+        {
+          "id": 2,
+          "importance": 100,
+          "product_id": 4
+        }
+      ],
+      "marks": [
+        {
+          "Mark_ID": 3,
+          "Mark_Name": "hit"
+        }
+      ],
+      "moysklad_connector_products_data": null,
+      "parameters": [
+        {
+          "Parameter_ID": 17,
+          "chosen": true,
+          "disabled": false,
+          "extra_field_color": null,
+          "extra_field_image": "https://avatars.mds.yandex.net/get-mpic/6382710/img_id2126954685454519847.jpeg/orig",
+          "name": "Кол-во шт. в упаковке",
+          "old_price": 666,
+          "parameter_string": "2 шт",
+          "price": 500,
+          "sort_order": null
+        },
+        {
+          "Parameter_ID": 18,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": null,
+          "extra_field_image": "https://i.ebayimg.com/images/g/q7wAAOSwheRkCfTF/s-l500.jpg",
+          "name": "Кол-во шт. в упаковке",
+          "old_price": 999,
+          "parameter_string": "3 шт",
+          "price": 750,
+          "sort_order": null
+        },
+        {
+          "Parameter_ID": 19,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": null,
+          "extra_field_image": "https://avatars.mds.yandex.net/get-mpic/4407413/img_id8514280599776279090.jpeg/orig",
+          "name": "Кол-во шт. в упаковке",
+          "old_price": 1200,
+          "parameter_string": "4 шт",
+          "price": 1000,
+          "sort_order": null
+        },
+        {
+          "Parameter_ID": 20,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": null,
+          "extra_field_image": "https://irecommend.ru/sites/default/files/imagecache/copyright1/user-images/310555/AMpsLU6VAAWSRjMh2pJP3A.JPG",
+          "name": "Кол-во шт. в упаковке",
+          "old_price": 1500,
+          "parameter_string": "5 шт",
+          "price": 1250,
+          "sort_order": null
+        }
+      ],
+      "reviews": [
+        {
+          "Photo_ID": 4,
+          "Photo_URL": "https://static-sda.ru/brandbot/rew.jpg",
+          "Product_ID": 4,
+          "sort_order": null
+        }
+      ],
+      "reviews_video": [
+        {
+          "Poster_URL": "https://static-sda.ru/luxpods_photo/watchs10.png",
+          "Product_ID": 4,
+          "Video_ID": 3,
+          "Video_URL": "https://static-sda.ru/luxpods_photo/video/watchs10.mov",
+          "sort_order": null
+        }
+      ],
+      "tags": [
+        "еда"
+      ]
+    },
+    {
+      "Created_At": "Mon, 10 Feb 2025 09:19:42 GMT",
+      "OnMain": true,
+      "Product_ID": 5,
+      "Product_Name": "Airpods Pro 2",
+      "Updated_At": "Thu, 08 May 2025 13:33:59 GMT",
+      "categories": [
+        {
+          "Category_ID": 5,
+          "Category_Image": "https://static-sda.ru/brandbot/menu/card5.png",
+          "Category_Name": "Наушники",
+          "sort_order": null
+        }
+      ],
+      "colors": [],
+      "excluded": [],
+      "extras": [
+        {
+          "Characteristics": "Вакуумные наушники с улучшенными характеристиками из линейки наушников самого высокого качества.\n- Режимы активного шумоподавления и прозрачности\n- Регулировка громкости сенсором наушника\n- 4 комплекта сменных амбушюр ХS, S, M, L (силиконовые насадки)\n- Динамик для поиска кейса\n- Звук стал чище и мощнее\n- Более емкие аккумуляторы, до 5 часов работы\n- Микрофоны более вы ского качества\n- 6 месяцев гарантии\n- Силиконовый чехол в подарок\n- Активное шумоподавление убирает внешний шум, обнаруживая внешние звуки микрофоном и подавляя их.",
+          "Delivery": "",
+          "Kit": "- Наушники\n- Гарантийный талон\n- Инструкция",
+          "Offer": "НАБОРОМ ОТ 4490 ₽",
+          "Product_Extra_ID": 5,
+          "Product_ID": 5,
+          "ai_description": null
+        }
+      ],
+      "images": [
+        {
+          "Image_ID": 9,
+          "Image_URL": "https://static-sda.ru/project/Photo/Airpods_Pro_2/Airpods_pro4.jpg",
+          "MainImage": false,
+          "Product_ID": 5,
+          "position": null,
+          "sort_order": null,
+          "title": null
+        },
+        {
+          "Image_ID": 6,
+          "Image_URL": "https://static-sda.ru/project/Photo/Airpods_Pro_2/Airpods_pro1.jpg",
+          "MainImage": true,
+          "Product_ID": 5,
+          "position": null,
+          "sort_order": null,
+          "title": null
+        },
+        {
+          "Image_ID": 7,
+          "Image_URL": "https://static-sda.ru/project/Photo/Airpods_Pro_2/Airpods_pro2.jpg",
+          "MainImage": false,
+          "Product_ID": 5,
+          "position": null,
+          "sort_order": null,
+          "title": null
+        },
+        {
+          "Image_ID": 8,
+          "Image_URL": "https://static-sda.ru/project/Photo/Airpods_Pro_2/Airpods_pro3.jpg",
+          "MainImage": false,
+          "Product_ID": 5,
+          "position": null,
+          "sort_order": null,
+          "title": null
+        }
+      ],
+      "importance_num": null,
+      "marks": [
+        {
+          "Mark_ID": 1,
+          "Mark_Name": "sale"
+        }
+      ],
+      "moysklad_connector_products_data": null,
+      "parameters": [
+        {
+          "Parameter_ID": 27,
+          "chosen": true,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": null,
+          "name": "Цвет чехла",
+          "old_price": null,
+          "parameter_string": "Чёрный",
+          "price": 27,
+          "sort_order": null
+        },
+        {
+          "Parameter_ID": 28,
+          "chosen": true,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": null,
+          "name": "Цвет чехла",
+          "old_price": null,
+          "parameter_string": "Сиреневый",
+          "price": 28,
+          "sort_order": null
+        },
+        {
+          "Parameter_ID": 26,
+          "chosen": true,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": null,
+          "name": "Цвет чехла",
+          "old_price": null,
+          "parameter_string": "Жёлтый",
+          "price": 26,
+          "sort_order": null
+        },
+        {
+          "Parameter_ID": 25,
+          "chosen": true,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": null,
+          "name": "Цвет чехла",
+          "old_price": 55,
+          "parameter_string": "Красный",
+          "price": 25,
+          "sort_order": null
+        }
+      ],
+      "reviews": [
+        {
+          "Photo_ID": 5,
+          "Photo_URL": "https://static-sda.ru/project/Photo/otziv/Otziv.jpg",
+          "Product_ID": 5,
+          "sort_order": null
+        },
+        {
+          "Photo_ID": 8,
+          "Photo_URL": "https://static-sda.ru/project/Photo/otziv/Otziv2.jpg",
+          "Product_ID": 5,
+          "sort_order": null
+        },
+        {
+          "Photo_ID": 7,
+          "Photo_URL": "https://static-sda.ru/project/Photo/otziv/Otziv1.jpg",
+          "Product_ID": 5,
+          "sort_order": null
+        }
+      ],
+      "reviews_video": [
+        {
+          "Poster_URL": null,
+          "Product_ID": 5,
+          "Video_ID": 5,
+          "Video_URL": "https://static-sda.ru/project/Photo/Airpods_Pro_2/pro.mp4",
+          "sort_order": null
+        }
+      ],
+      "tags": [
+        "наушники",
+        "белое"
+      ]
+    },
+    {
+      "Created_At": "Mon, 10 Feb 2025 14:24:13 GMT",
+      "OnMain": true,
+      "Product_ID": 6,
+      "Product_Name": "Airpods MAX",
+      "Updated_At": "Thu, 08 May 2025 13:34:03 GMT",
+      "categories": [
+        {
+          "Category_ID": 5,
+          "Category_Image": "https://static-sda.ru/brandbot/menu/card5.png",
+          "Category_Name": "Наушники",
+          "sort_order": null
+        }
+      ],
+      "colors": [],
+      "excluded": [],
+      "extras": [
+        {
+          "Characteristics": "- Оригинальный серийный номер (пробивается на офф. сайте)\n- Алюминиевый корпус\n- Активное шумоподавление/режим прозрачности\n- Амбушуры с магнитным креплением\n- Высокое качество звука\n- Оригинальные анимации и настройки",
+          "Delivery": "",
+          "Kit": "- Наушники\n- Комплект документов",
+          "Offer": "",
+          "Product_Extra_ID": 6,
+          "Product_ID": 6,
+          "ai_description": null
+        }
+      ],
+      "images": [
+        {
+          "Image_ID": 20,
+          "Image_URL": "https://static-sda.ru/project/Photo/Airpods_%D0%9C%D0%B0%D1%85/airmax2.png",
+          "MainImage": false,
+          "Product_ID": 6,
+          "position": null,
+          "sort_order": null,
+          "title": null
+        },
+        {
+          "Image_ID": 21,
+          "Image_URL": "https://static-sda.ru/project/Photo/Airpods_%D0%9C%D0%B0%D1%85/airmax3.png",
+          "MainImage": false,
+          "Product_ID": 6,
+          "position": null,
+          "sort_order": null,
+          "title": null
+        },
+        {
+          "Image_ID": 22,
+          "Image_URL": "https://static-sda.ru/project/Photo/Airpods_%D0%9C%D0%B0%D1%85/airmax4.png",
+          "MainImage": false,
+          "Product_ID": 6,
+          "position": null,
+          "sort_order": null,
+          "title": null
+        },
+        {
+          "Image_ID": 19,
+          "Image_URL": "https://static-sda.ru/project/Photo/Airpods_%D0%9C%D0%B0%D1%85/airmax1.png",
+          "MainImage": true,
+          "Product_ID": 6,
+          "position": null,
+          "sort_order": null,
+          "title": null
+        }
+      ],
+      "importance_num": null,
+      "marks": [],
+      "moysklad_connector_products_data": null,
+      "parameters": [
+        {
+          "Parameter_ID": 33,
+          "chosen": true,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": null,
+          "name": "Цвет",
+          "old_price": null,
+          "parameter_string": "Синий",
+          "price": 33,
+          "sort_order": null
+        },
+        {
+          "Parameter_ID": 32,
+          "chosen": true,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": null,
+          "name": "Цвет",
+          "old_price": null,
+          "parameter_string": "Красный",
+          "price": 32,
+          "sort_order": null
+        },
+        {
+          "Parameter_ID": 29,
+          "chosen": true,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": null,
+          "name": "Цвет",
+          "old_price": null,
+          "parameter_string": "Серый",
+          "price": 29,
+          "sort_order": null
+        },
+        {
+          "Parameter_ID": 30,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": null,
+          "name": "Цвет",
+          "old_price": null,
+          "parameter_string": "Чёрный",
+          "price": 30,
+          "sort_order": null
+        },
+        {
+          "Parameter_ID": 31,
+          "chosen": true,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": null,
+          "name": "Цвет",
+          "old_price": null,
+          "parameter_string": "Зелёный",
+          "price": 31,
+          "sort_order": null
+        }
+      ],
+      "reviews": [
+        {
+          "Photo_ID": 10,
+          "Photo_URL": "https://static-sda.ru/project/Photo/otziv/Otziv2.jpg",
+          "Product_ID": 6,
+          "sort_order": null
+        },
+        {
+          "Photo_ID": 6,
+          "Photo_URL": "https://static-sda.ru/project/Photo/otziv/Airmaxotziv.jpg",
+          "Product_ID": 6,
+          "sort_order": null
+        },
+        {
+          "Photo_ID": 9,
+          "Photo_URL": "https://static-sda.ru/project/Photo/otziv/Otziv1.jpg",
+          "Product_ID": 6,
+          "sort_order": null
+        }
+      ],
+      "reviews_video": [
+        {
+          "Poster_URL": null,
+          "Product_ID": 6,
+          "Video_ID": 6,
+          "Video_URL": "https://static-sda.ru/project/Photo/Airpods_%D0%9C%D0%B0%D1%85/airmax.mp4",
+          "sort_order": null
+        }
+      ],
+      "tags": [
+        "наушники",
+        "белое"
+      ]
+    }
+  ],
+  "special_project_parameters": {
+    "PAYMENT_SYSTEM_INSERT_TEXT_description": "<p class=\"cart-link-popup-imitator-container-thanksForOrder\">Спасибо за заказы!</p>",
+    "PAYMENT_SYSTEM_INSERT_TEXT_extra_field_1": "<p class=\"caution-text\">Внимание!</p>\r\n\r\n            <p class=\"book-text\">\r\n                Бронь заказа <b>актуальна только 30 минут</b>. Оплатите, пожалуйста, в течение этого времени, иначе заказ будет отменён!\r\n            </p>\r\n\r\n            <p class=\"send-text\">\r\n                После оплаты, пожалуйста, отправьте ваш чек об оплате, нашему менеджеру в телеграм для подтверждения заказа @ilya_ai1\r\n            </p>\r\n\r\n            <a href=\"https://t.me/apl_zakaz\" class=\"tg-link\">\r\n                <svg width=\"25\" height=\"24\" viewBox=\"0 0 25 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g clip-path=\"url(#a)\" fill-rule=\"evenodd\" clip-rule=\"evenodd\"><path d=\"M24.5 12c0-6.628-5.372-12-12-12S.5 5.372.5 12s5.372 12 12 12 12-5.372 12-12\" fill=\"url(#b)\"/><path d=\"m5.666 11.297 7.797-3.238c.77-.338 3.381-1.417 3.381-1.417s1.205-.473 1.105.675c-.034.472-.302 2.124-.57 3.912l-.836 5.295s-.067.776-.636.911-1.506-.472-1.673-.607c-.134-.101-2.51-1.619-3.38-2.36-.235-.203-.503-.608.033-1.08a129 129 0 0 0 3.514-3.373c.402-.405.804-1.35-.87-.203l-4.719 3.205s-.535.337-1.54.033c-1.003-.303-2.175-.708-2.175-.708s-.803-.506.57-1.045z\" fill=\"#fff\"/></g><defs><linearGradient id=\"b\" x1=\"55.831\" y1=\"13.231\" x2=\"34.179\" y2=\"61.344\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#37AEE2\"/><stop offset=\"1\" stop-color=\"#1E96C8\"/></linearGradient><clipPath id=\"a\"><path fill=\"#fff\" d=\"M.5 0h24v24H.5z\"/></clipPath></defs></svg>\r\n                @ilya_ai1\r\n            </a>\r\n            \r\n",
+    "PAYMENT_SYSTEM_INSERT_TEXT_value": "1",
+    "PAYMENT_SYSTEM_value": "softpay",
+    "SERVER_IP_ADDR_description": "http://localhost:7777",
+    "SERVER_IP_ADDR_value": "https://bot-igor.ru",
+    "cart_allow_post_payment_value": "yes",
+    "cart_delivery_price_offline_value": "1000",
+    "cart_delivery_price_value": "500",
+    "footer_link_description": "@noxerai_bot",
+    "footer_link_value": "https://t.me/noxerai_bot",
+    "main_page_1st_special_block_description": "Наше производство",
+    "main_page_1st_special_block_extra_field_1": "про изготовление",
+    "main_page_1st_special_block_value": "https://teletype.in/@brandbot/1FoWO207kIH",
+    "main_page_2nd_special_block_description": "Бережная доставка",
+    "main_page_2nd_special_block_extra_field_1": "узнать подробнее",
+    "main_page_2nd_special_block_value": "https://teletype.in/@brandbot/vW8XzSKnYug",
+    "main_page_3rd_special_block_description": "Посмотреть акции",
+    "main_page_3rd_special_block_extra_field_1": "#7561E8",
+    "main_page_3rd_special_block_value": "/stock",
+    "main_page_background_shadows_1_description": "#f4d397",
+    "main_page_background_shadows_1_extra_field_1": "#b1c7df",
+    "main_page_background_shadows_1_value": "#7561E8",
+    "main_page_big_sale_banner_description": "Акции",
+    "main_page_big_sale_banner_extra_field_1": "https://static-sda.ru/brandbot/actbanners/rasp.jpg",
+    "main_page_big_sale_banner_value": "https://brandbot-ai.ru/stock",
+    "menu_button_colors_extra_field_1": "#000000",
+    "menu_button_colors_value": "#7561E8",
+    "product_page_accordeon_item_header_12_description": "Описание 2",
+    "product_page_accordeon_item_header_12_value": "описание",
+    "product_page_accordeon_item_header_34_description": "описание 4",
+    "product_page_accordeon_item_header_34_value": "описание 3",
+    "project_colors_description": "#F1F1F1",
+    "project_colors_extra_field_1": "#CDDEBC",
+    "project_colors_value": "#7561E8",
+    "project_footer_special_text_extra_field_1": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();\n   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}\n   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(101462339, \"init\", {\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true,\n        webvisor:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/101462339\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n<!-- /Yandex.Metrika counter -->",
+    "project_footer_special_text_value": "yes",
+    "project_logo_description": "logo description",
+    "project_logo_extra_field_1": "logo extra parameter",
+    "project_logo_value": "https://bot-igor.ru/static/user_files/dou/Cover.png",
+    "project_name_description": "Название проекта",
+    "project_name_extra_field_1": "Разработано на платформе в noxerai_bot",
+    "project_name_value": "igor test bot",
+    "reviews_link_description": "Смотреть все отзывы",
+    "reviews_link_value": "https://t.me/noxerai_bot",
+    "telegram_bot_username_description": "Телеграм бот",
+    "telegram_bot_username_extra_field_1": ":)",
+    "telegram_bot_username_value": "@igor_arhimage_bot",
+    "telegram_header_link_description": "Ссылка на телеграм канал",
+    "telegram_header_link_value": "https://t.me/noxerai_bot",
+    "telegram_manager_contact_extra_field_1": "https://t.me/ilya_ai1",
+    "telegram_manager_contact_value": "@archimage_wiz",
+    "webapp_link_description": "Ссылка на приложение в телеграм!",
+    "webapp_link_value": "https://bot-igor.ru"
+  },
+  "special_project_parameters_actions": [
+    {
+      "action_type": "action",
+      "description": "",
+      "extra_field_1": "",
+      "extra_field_2": "",
+      "id": 1,
+      "image_url": "https://static-sda.ru/brandbot/actbanners/banner1.png",
+      "sort_order": 1,
+      "url": null
+    },
+    {
+      "action_type": "action",
+      "description": "поадрок",
+      "extra_field_1": "",
+      "extra_field_2": "",
+      "id": 2,
+      "image_url": "https://static-sda.ru/brandbot/actbanners/banner1.png",
+      "sort_order": 1,
+      "url": null
+    },
+    {
+      "action_type": "p23",
+      "description": "описание",
+      "extra_field_1": "10",
+      "extra_field_2": "20",
+      "id": 103,
+      "image_url": "",
+      "sort_order": 2,
+      "url": null
+    },
+    {
+      "action_type": "action",
+      "description": "оаис",
+      "extra_field_1": "",
+      "extra_field_2": "",
+      "id": 104,
+      "image_url": "",
+      "sort_order": 3,
+      "url": null
+    }
+  ],
+  "special_project_parameters_badges": [
+    {
+      "description": "Возврат товара",
+      "id": 1,
+      "image_url": "assets/articleIcons/icon-4.svg",
+      "meaning_tag": null,
+      "sort_order": 1,
+      "url": "https://teletype.in/@brandbot/DUtTkrsbES1"
+    },
+    {
+      "description": "Доставка и оплата",
+      "id": 2,
+      "image_url": "assets/articleIcons/icon-17.svg",
+      "meaning_tag": null,
+      "sort_order": 4,
+      "url": "https://teletype.in/@brandbot/vW8XzSKnYug"
+    },
+    {
+      "description": "Гарантии",
+      "id": 3,
+      "image_url": "assets/articleIcons/icon-5.svg",
+      "meaning_tag": null,
+      "sort_order": 5,
+      "url": "https://teletype.in/@brandbot/1FoWO207kIH"
+    },
+    {
+      "description": "Почему мы?",
+      "id": 4,
+      "image_url": "assets/articleIcons/icon.svg",
+      "meaning_tag": null,
+      "sort_order": 0,
+      "url": "https://teletype.in/@brandbot/umpddLRnPVl"
+    },
+    {
+      "description": "Режим работы",
+      "id": 5,
+      "image_url": "assets/articleIcons/icon-11.svg",
+      "meaning_tag": null,
+      "sort_order": 2,
+      "url": "https://teletype.in/@brandbot/lX_UiFM5bxS"
+    },
+    {
+      "description": "Акции Магазина",
+      "id": 6,
+      "image_url": "https://static-sda.ru/front_end/icons/percentage-circle.svg",
+      "meaning_tag": "actions",
+      "sort_order": 0,
+      "url": ""
+    },
+    {
+      "description": "Написать в поддержку",
+      "id": 7,
+      "image_url": "https://static-sda.ru/front_end/icons/support.svg",
+      "meaning_tag": "support",
+      "sort_order": 2,
+      "url": ""
+    },
+    {
+      "description": "Установиить приложение на домашний экран",
+      "id": 8,
+      "image_url": "https://static-sda.ru/front_end/icons/move_app_icon.svg",
+      "meaning_tag": "set_app",
+      "sort_order": 1,
+      "url": ""
+    },
+    {
+      "description": "Как мы работаем?",
+      "id": 105,
+      "image_url": "assets/articleIcons/icon-4.svg",
+      "meaning_tag": null,
+      "sort_order": 6,
+      "url": "https://teletype.in/@brandbot/lX_UiFM5bxS"
+    },
+    {
+      "description": "Новая статья!",
+      "id": 106,
+      "image_url": "assets/articleIcons/icon-1.svg",
+      "meaning_tag": null,
+      "sort_order": 3,
+      "url": "https://teletype.in/@brandbot/lX_UiFM5bxS"
+    }
+  ],
+  "special_project_parameters_json": {
+    "delivery_method": {
+      "methods_list": [
+        {
+          "description": "и даже тут",
+          "name": "СДЕК",
+          "type": "cdek"
+        },
+        {
+          "description": "и тут я описал",
+          "name": "Почта России",
+          "type": "pochta"
+        },
+        {
+          "description": "Проверка",
+          "name": "Доставка курьером",
+          "type": "courier"
+        },
+        {
+          "description": "укпцукп",
+          "name": "Boxberry",
+          "type": "boxberry"
+        },
+        {
+          "description": "Описание тест",
+          "name": "5Post",
+          "type": "post5"
+        },
+        {
+          "description": "Янедксетест",
+          "name": "Яндекс",
+          "type": "yandex"
+        }
+      ]
+    },
+    "disabled_gpt_models": {
+      "disabled_models": [
+        "gpt-4.1"
+      ]
+    },
+    "fast_search_strings": {
+      "parameters_list": [
+        "Продукты",
+        "Икра",
+        "Полуфабрикаты",
+        "Рыба"
+      ]
+    },
+    "global_reviews": {
+      "rating": 5,
+      "title": "Показать все отзывы",
+      "total_ratings_count": 40,
+      "url": "https://teletype.in/@brandbot/vW8XzSKnYug"
+    },
+    "is_side_menu": true,
+    "softpay_button": {
+      "afterpay_button_link": "https://t.me",
+      "afterpay_button_text": "TEST BUTTON2"
+    }
+  },
+  "status": "ok"
+}

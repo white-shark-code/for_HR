@@ -1,0 +1,51 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgres:17.5-alpine3.22
+    environment:
+      POSTGRES_DB: dbname
+      POSTGRES_USER: dbuser
+      POSTGRES_PASSWORD: password
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  redis:
+    image: redis:8.2-rc1-alpine
+
+  app1:
+    build:
+      context: .
+      dockerfile: docker/app.Dockerfile
+    depends_on:
+      - db
+
+  app2:
+    build:
+      context: .
+      dockerfile: docker/app.Dockerfile
+    depends_on:
+      - app1
+
+  celery_worker:
+    build:
+      context: .
+      dockerfile: docker/app.Dockerfile
+    command: celery -A celery_app worker --loglevel=info --beat
+    depends_on:
+      - app1
+      - app2
+      - redis
+
+  nginx:
+    build:
+      context: ./docker
+      dockerfile: nginx.Dockerfile
+    ports:
+      - "5555:80"
+    depends_on:
+      - app1
+      - app2
+
+volumes:
+  postgres_data:

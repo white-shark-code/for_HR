@@ -1,0 +1,50 @@
+[project]
+name = "noxer"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "alembic>=1.16.4",
+    "celery[redis]>=5.5.3",
+    "flask[async]>=3.1.1",
+    "gunicorn>=23.0.0",
+    "httpx>=0.28.1",
+    "loguru>=0.7.3",
+    "pydantic-settings>=2.10.1",
+    "ruff>=0.12.5",
+    "sqlalchemy>=2.0.41",
+]
+
+[project.optional-dependencies]
+postgresql = [
+    "asyncpg>=0.30.0",
+    "psycopg2-binary>=2.9.10",
+]
+mysql = [
+    "aiomysql>=0.2.0",
+    "mysqlclient>=2.2.7",
+]
+mariadb = [
+    "asyncmy>=0.2.3,!=0.2.4,!=0.2.6",
+    "mariadb==1.1.13",
+]
+
+[tool.ruff]
+
+lint.select = [
+  "E",   # Pycodestyle (ошибки)
+  "F",   # Pyflakes
+  "W",   # Предупреждения
+  "UP",  # Pyupgrade (современный синтаксис)
+  "I",   # Isort (сортировка импортов)
+  "RUF", # Специфичные для Ruff
+]
+lint.exclude = [
+    '.vscode',
+    '.env',
+    '.env_example',
+    'alembic.ini',
+    'README.md',
+    '.venv',
+]
