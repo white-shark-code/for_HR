@@ -1,4 +1,4 @@
-### Тестовое задание: Backend для интернет-магазина  
+### Тестовое задание: Backend для интернет-магазина [Полное техническое задание](https://github.com/white-shark-code/for_HR/blob/main/Noxer/TechnicalTask.md)
 **Используемые технологии**: Flask, Docker, PostgreSQL, SQLAlchemy, Alembic, Celery, Redis, Gunicorn, Nginx  
 
 ---
